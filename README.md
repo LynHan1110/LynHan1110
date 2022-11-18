@@ -4,4 +4,4 @@
 ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)
 and 
-https://appinventor.mit.edu/images/logo.png
+![AppInventor](https://appinventor.mit.edu/images/logo.png)
