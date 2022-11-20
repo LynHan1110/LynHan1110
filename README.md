@@ -5,3 +5,11 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)
 and 
 ![AppInventor](https://appinventor.mit.edu/images/logo.png)
+
+
+
+## 활동량
+![active](https://github-readme-stats.vercel.app/api?username=LynHan1110&show_icons=true&theme=gotham)
+
+## 언어
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=LynHan1110&langs_count=8&layout=compact&theme=gotham)
