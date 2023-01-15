@@ -18,8 +18,6 @@ br />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LynHan1110&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%"/>
 </p>
 <br />
-<img src="colored.png"  width="100%"/>
-<br />
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=LynHan1110&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%">
 </p>
