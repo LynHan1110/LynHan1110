@@ -11,5 +11,4 @@
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)  
 ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynHan1110&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=LynHan1110)
