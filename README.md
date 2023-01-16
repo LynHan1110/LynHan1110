@@ -20,4 +20,3 @@
 </p>
 <br />
 <br />
-![githubstats](https://gh-hits.nomadcoders.workers.dev/view?username=LynHan1110)
