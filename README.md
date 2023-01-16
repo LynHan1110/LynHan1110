@@ -1,7 +1,7 @@
 <label>안녕하세요. <br />학생 개발자 LynHan1110입니다.
   실명은 한 린 입니다. <br /> <br />
   SNS:  <br />
-  디스코드 : lynhan2101 #0572
+  디스코드 : lynhan2101 #0572<br />
   ![Discord](https://discord.c99.nl/widget/theme-1/1000315891898138634.png)<br />
    <br />유튜브  : @lvc_app_center
    <br />티스토리 (거의 안 씀) : https://mit-appinventor.tistory.com
