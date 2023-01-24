@@ -1,5 +1,7 @@
 <label>안녕하세요. <br />학생 개발자 LynHan1110입니다.
   실명은 한 린 입니다. <br /> <br />
+  ![lego](https://i.ibb.co/gSjvz2G/20230123-130719.jpg)
+  <br />
   SNS:  <br />
   디스코드 : lynhan2101 #0572<br />
   ![Discord](https://discord.c99.nl/widget/theme-1/1000315891898138634.png)
@@ -17,7 +19,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LynHan1110&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LynHan1110&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=LynHan1110&theme=onestar&no-frame=true&column=4&row=3"></img>
+<img src="https://github-profile-trophy.vercel.appusername=LynHan1110&theme=onestar&no-frame=true&column=4&row=3"></img>
 </p>
 <br />
 <br />
