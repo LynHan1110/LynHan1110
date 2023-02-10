@@ -1,6 +1,5 @@
 <label>안녕하세요. <br />학생 개발자 LynHan1110입니다.
   실명은 한 린 입니다. <br /> <br />
-  <img height=100 width=100 src="https://i.ibb.co/gSjvz2G/20230123-130719.jpg" loading="lazy"></img>
   <br />
   SNS:  <br />
   디스코드 : lynhan2101 #0572<br />
