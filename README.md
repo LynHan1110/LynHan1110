@@ -18,3 +18,9 @@
 </p>
 <br />
 <br />
+
+<style>
+  img {
+  border-radius: 10px;
+  }
+  </style>
