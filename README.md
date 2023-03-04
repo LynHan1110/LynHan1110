@@ -21,6 +21,6 @@
 <br />
 <br />
 <h4>README.md 조회수</h4>
-<img src="https://gh-hits.nomadcoders.workers.dev/view?username=LynHan1110&cache" />
+<iframe src="https://gh-hits.nomadcoders.workers.dev/view?username=LynHan1110&cache" />
 
 
