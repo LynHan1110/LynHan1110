@@ -17,8 +17,7 @@
 <br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LynHan1110&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=LynHan1110&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%"/>
-<img src="https://github-profile-trophy.vercel.appusername=LynHan1110&theme=onestar&no-frame=true&column=4&row=3" />
+<img style="border-radius=10%" src="https://github-readme-streak-stats.herokuapp.com?user=LynHan1110&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%"/>
 </p>
 <br />
 <br />
