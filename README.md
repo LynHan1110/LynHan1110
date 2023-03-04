@@ -2,8 +2,8 @@
 <h3>  실명은 한 린 입니다.</h3>
 
   <br />
-  <h5>SNS:
-  <img src="https://discord.c99.nl/widget/theme-1/1000315891898138634.png"  style="border-radius : 10%;" />
+  <h5>SNS:<br />
+  <img src="https://discord.c99.nl/widget/theme-1/1000315891898138634.png"  style="border-radius : 10px;" />
 
 <label>Stacks : </label><br />
 ![html](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)<br />
