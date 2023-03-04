@@ -2,7 +2,7 @@
 <h3>  실명은 한 린 입니다.</h3>
 
   <br />
- -  <h4>SNS :</h4> 
+   <h4>SNS :</h4> 
   <img src="https://discord.c99.nl/widget/theme-1/1000315891898138634.png" style="border-radius: 10%;" />
 <br /><br />
 <h4>언어 : </h4>
@@ -11,12 +11,12 @@
 <br />
 <h4>Stacks</h4>
 
-![html](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)<br />
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)  <br />
-![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)<br />
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)<br />
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)<br />
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)
+- ![html](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)<br />
+- ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)  <br />
+- ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)<br />
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)<br />
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)<br />
+- ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)
 <br />
 <br />
 <h4>Github 통계 : </h4>
