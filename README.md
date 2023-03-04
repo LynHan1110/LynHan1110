@@ -16,7 +16,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LynHan1110&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%"/>
 <br /><br />
   <h4>Waketime</h4>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LynHan1110&repo=LynHan1110)]
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LynHan1110&repo=LynHan1110" />
 </p>
 <br />
 <br />
