@@ -3,7 +3,7 @@
   <br />
   SNS:  <br />
   디스코드 : lynhan2101 #0572<br />
-  ![Discord](https://discord.c99.nl/widget/theme-1/1000315891898138634.png)
+  <img src="https://discord.c99.nl/widget/theme-1/1000315891898138634.png"  style="border-radius=10%" />
    <br />유튜브  : @lvc_app_center
    <br />티스토리 (거의 안 씀) : https://mit-appinventor.tistory.com
   </label>
@@ -17,7 +17,7 @@
 <br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LynHan1110&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%"/>
-<img style="border-radius=10%" src="https://github-readme-streak-stats.herokuapp.com?user=LynHan1110&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=LynHan1110&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%"/>
 </p>
 <br />
 <br />
