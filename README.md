@@ -5,6 +5,7 @@
   <h4>SNS:<br /></h4>
   <img src="https://discord.c99.nl/widget/theme-1/1000315891898138634.png"  style="border-radius : 10px;" />
 <br /><br />
+<h4>언어</h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LynHan1110" />
 <br />
 <br />
