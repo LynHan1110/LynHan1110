@@ -3,7 +3,7 @@
 
   <br />
   <h5>SNS:
-  ---
+  ----
   <br /><br />Discord</h5>
   <img src="https://discord.c99.nl/widget/theme-1/1000315891898138634.png"  style="border-radius : 10%;" />
 
