@@ -1,9 +1,9 @@
 <h2>안녕하세요! 학생 개발자 LynHan1110입니다.</h2>
 <h3>  실명은 한 린 입니다.</h3>
+```<h1>한린</h1>```
 
   <br />
   <h5>SNS:
-******
   <br /><br />Discord</h5>
   <img src="https://discord.c99.nl/widget/theme-1/1000315891898138634.png"  style="border-radius : 10%;" />
 
