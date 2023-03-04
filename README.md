@@ -14,7 +14,9 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LynHan1110&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LynHan1110&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%"/>
-
+<br /><br />
+  <h4>Waketime</h4>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LynHan1110" />
 </p>
 <br />
 <br />
