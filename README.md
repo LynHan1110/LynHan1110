@@ -2,7 +2,7 @@
   실명은 한 린 입니다. <br /> <br />
   <br />
   SNS:  <br />
-  디스코드 : lynhan2101 #0572<br />
+  디스코드 : lynhan2101#0572<br />
   <img src="https://discord.c99.nl/widget/theme-1/1000315891898138634.png"  style="border-radius : 10%;" />
 
 <label>Stacks : </label><br />
