@@ -2,7 +2,7 @@
 <h3>  실명은 한 린 입니다.</h3>
 
   <br />
-  <h4>SNS : <br /></h4>
+  <h4>SNS :</h4> <br />
   <img src="https://discord.c99.nl/widget/theme-1/1000315891898138634.png"  style="border-radius : 10px;" />
 <br /><br />
 <h4>언어 : </h4>
