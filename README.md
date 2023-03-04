@@ -3,7 +3,7 @@
 
   <br />
   <h4>SNS :</h4> <br />
-  <img src="https://discord.c99.nl/widget/theme-1/1000315891898138634.png"  style="border-radius : 10px;" />
+  <img src="https://discord.c99.nl/widget/theme-1/1000315891898138634.png"  style="border-radius : 10%;" />
 <br /><br />
 <h4>언어 : </h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LynHan1110" />
