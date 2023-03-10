@@ -38,7 +38,6 @@
 <br />
 <br />
 ```
-lyn.md
 <discord>lynhan2101#0572</discord>
 <github>LynHan1110</github>
 <languages>Korean, HTML, CSS, JavaScript, Node.js, PHP, Netlify</languages>
