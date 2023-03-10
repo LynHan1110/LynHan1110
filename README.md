@@ -31,6 +31,9 @@
   <h4>가장 인기있는 레포지토리</h4>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LynHan1110&repo=BibleProject" />
 </p>
+
+<h4>Followers</h4>
+<img src="https://img.shields.io/badge/Followers-3-ff69b4"></img>
 <br />
 <br />
 
