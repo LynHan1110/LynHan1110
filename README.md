@@ -34,6 +34,7 @@
 
 <h4>Followers</h4>
 <img src="https://img.shields.io/badge/Followers : -3-ff69b4"></img>
+*실시간으로 업데이트 되지 않습니다. | Does Not Update in Live Time.
 <br />
 <br />
 
