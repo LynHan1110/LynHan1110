@@ -37,9 +37,4 @@
 <em>실시간으로 업데이트 되지 않습니다. | Does Not Update in Live Time.</em>
 <br />
 <br />
-```
-<discord>lynhan2101#0572</discord>
-<github>LynHan1110</github>
-<languages>Korean, HTML, CSS, JavaScript, Node.js, PHP, Netlify</languages>
-```
 
