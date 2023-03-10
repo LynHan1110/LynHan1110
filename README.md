@@ -3,6 +3,7 @@
 
   <br />
    <h4>SNS :</h4> 
+   <img src="https://img.shields.io/badge/discord-E34F26?style=flat-square&logo=Discord&logoColor=white"></img>
   <img src="https://discord.c99.nl/widget/theme-1/1000315891898138634.png" style="border-radius: 10%;" />
 <br /><br />
 <h4>언어 : </h4>
@@ -19,8 +20,8 @@
 <img src="https://img.shields.io/badge/-%ED%95%9C%EA%B5%AD%EB%A7%90-blue"/>
 <br />
 <br />
-<h4>장비</h4>
-<h2>I use <img src="https://img.shields.io/badge/I Mac-d9d9d9?style=for-the-badge&logo=apple&logoColor=white"></img> To Develop</h2>
+<h4>컴 사양</h4>
+<img src="https://img.shields.io/badge/I Mac-d9d9d9?style=for-the-badge&logo=apple&logoColor=white"></img>
 <h4>Github 통계 : </h4>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LynHan1110&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%"/>
