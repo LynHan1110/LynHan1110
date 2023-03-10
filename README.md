@@ -33,7 +33,7 @@
 </p>
 
 <h4>Followers</h4>
-<img src="https://img.shields.io/badge/Followers-3-ff69b4"></img>
+<img src="https://img.shields.io/badge/Followers : -3-ff69b4"></img>
 <br />
 <br />
 
