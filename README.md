@@ -8,7 +8,7 @@
 <h4>언어 : </h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LynHan1110" />
 <br />
-- ----------
+----------
 <br />
 <h4>Stacks</h4>
 
