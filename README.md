@@ -20,8 +20,9 @@
 <img src="https://img.shields.io/badge/-%ED%95%9C%EA%B5%AD%EB%A7%90-blue"/>
 <br />
 <br />
-<h4>컴 사양</h4>
+<h4>컴 사양 : </h4>
 <img src="https://img.shields.io/badge/I Mac-d9d9d9?style=for-the-badge&logo=apple&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/Mac OS-5865F2?style=flat-square&logo=Mac OS&logoColor=white"></img>
 <h4>Github 통계 : </h4>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LynHan1110&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%"/>
