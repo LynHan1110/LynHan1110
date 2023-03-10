@@ -20,7 +20,7 @@
 <br />
 <br />
 <h4>장비</h4>
-<h5>I use <img src="https://img.shields.io/badge/I Mac-d9d9d9?style=for-the-badge&logo=apple&logoColor=white"></img> To Develop</h5>
+<h2>I use <img src="https://img.shields.io/badge/I Mac-d9d9d9?style=for-the-badge&logo=apple&logoColor=white"></img> To Develop</h2>
 <h4>Github 통계 : </h4>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LynHan1110&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%"/>
