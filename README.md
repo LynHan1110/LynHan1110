@@ -3,7 +3,7 @@
 
   <br />
    <h4>SNS :</h4> 
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"></img> : lynhan2101#0572
   <img src="https://discord.c99.nl/widget/theme-1/1000315891898138634.png" style="border-radius: 10%;" />
 <br /><br />
 <h4>언어 : </h4>
