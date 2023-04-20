@@ -29,11 +29,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=LynHan1110&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LynHan1110&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%"/>
 <br /><br />
-  <h4>가장 인기있는 레포지토리</h4>
+  <h4>가장 인기있는 레포지토리 : </h4>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LynHan1110&repo=BibleProject" />
 </p>
 
-<h4>Followers</h4>
+<h4>Followers : </h4>
 <img src="https://img.shields.io/badge/Followers : -3-ff69b4"></img>
 <em>실시간으로 업데이트 되지 않습니다. | Does Not Update in Live Time.</em>
 <br />
@@ -41,4 +41,4 @@
 <h4>
   광고
   </h4>
-![광고](https://tab2.clickmon.co.kr/pop/wp_ad_728.php?PopAd=CM_M_1003067%7C%5E%7CCM_A_1123465%7C%5E%7CAdver_M_1046207&mon_rf=REFERRER_URL&mon_direct_url=URLENCODE_PASSBACK_INPUT)
+![광고](https://tab2.clickmon.co.kr/pop/wp_ad_728.php?PopAd=CM_M_1003067%7C%5E%7CCM_A_1123465%7C%5E%7CAdver_M_1046207&mon_rf=REFERRER_URL&mon_direct_url=URLENCODE_PASSBACK_INPUT?cache)
