@@ -39,6 +39,6 @@
 <br />
 <br />
 <h4>
-  광고
+  광고 : 
   </h4>
-![iframe](https://cloud.githubusercontent.com/assets/12269563/12475773/7866eb2a-c068-11e5-945f-4c079be67817.jpeg)
+[![Follow Mohamed El-Qassas GitHub](https://avatars.githubusercontent.com/u/49816567?s=96&v=4)](https://github.com/melqassas/)
