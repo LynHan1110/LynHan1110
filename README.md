@@ -1,8 +1,5 @@
 <h2>안녕하세요! 학생 개발자 LynHan1110입니다.</h2>
 <h3>  실명은 한 린 입니다.</h3>
-![](https://tab2.clickmon.co.kr/pop/wp_ad_728.php?PopAd=CM_M_1003067%7C%5E%7CCM_A_1123465%7C%5E%7CAdver_M_1046207&mon_rf=REFERRER_URL&mon_direct_url=URLENCODE_PASSBACK_INPUT)
-
-
   <br />
    <h4>SNS :</h4> 
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"></img>
