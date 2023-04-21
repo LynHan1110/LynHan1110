@@ -36,7 +36,7 @@
 </p>
 <br />
 <br />
-<h4>방문자 / Views</h4>
+<h4>방문자 / Views (2023/04/21 ~)</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LynHan1110&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <br /><br/>
 <h4>팔로워 / Followers : </h4>
