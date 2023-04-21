@@ -26,15 +26,19 @@
 <h4>컴 사양 / Computer and Tools : </h4>
 <img src="https://img.shields.io/badge/I Mac 24-d9d9d9?style=for-the-badge&logo=apple&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Galaxy Tab A, Galaxy Tab A7-d9d9d9?style=for-the-badge&logo=Samsung&logoColor=white"></img>
-<h4>Github 통계 : </h4>
+<h4>Github 통계 / Github Stats : </h4>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LynHan1110&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LynHan1110&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%"/>
 <br /><br />
-  <h4>가장 인기있는 레포지토리 : </h4>
+  <h4>가장 인기있는 레포지토리 / Most Attractive Repo : </h4>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LynHan1110&repo=BibleProject" />
 </p>
-
+<br />
+<br />
+<h4>방문자 / Views</h4>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LynHan1110&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<br /><br/>
 <h4>팔로워 / Followers : </h4>
 <img src="https://img.shields.io/badge/Followers : -3-ff69b4"></img>
 <em>실시간으로 업데이트 되지 않습니다. | Does Not Update in Live Time.</em>
