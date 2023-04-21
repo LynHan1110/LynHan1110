@@ -37,7 +37,4 @@
 <em>실시간으로 업데이트 되지 않습니다. | Does Not Update in Live Time.</em>
 <br />
 <br />
-<h4>
-  광고 : 
-  </h4>
-![텍스트]([이미지링크](https://tab2.clickmon.co.kr/pop/wp_ad_728.php?PopAd=CM_M_1003067%7C%5E%7CCM_A_1123465%7C%5E%7CAdver_M_1046207&mon_rf=REFERRER_URL&mon_direct_url=URLENCODE_PASSBACK_INPU))
+<h3 align="left">Support:</h3> <p><a href="https://lit.ly/hanlyn1110"> <img align="left" src="https://cdn.litt.ly/images/KdB0KfhRMXK1ic7QP8JVEIDu0IVEZMlz?s=360x360&f=webp" height="50" width="210" alt="hanlyn1110" /></a></p><br><br>
