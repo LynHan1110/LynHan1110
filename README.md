@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-%ED%95%9C%EA%B5%AD%EB%A7%90/Korean-blue"/>
+<img src="https://img.shields.io/badge/-%ED%95%9C%EA%B5%AD%EB%A7%90 / Korean-blue"/>
 <br />
 <br />
 <h4>컴 사양 / Computer and Tools : </h4>
