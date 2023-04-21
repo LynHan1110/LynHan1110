@@ -1,11 +1,13 @@
 <h2>안녕하세요! 학생 개발자 LynHan1110입니다.</h2>
 <h3>  실명은 한 린 입니다.</h3>
+<h2>Hi! I'm a student, LynHan1110 who is interested in Coding!</h2>
+<h3>  My name is HanLyn (한 린).</h3>
   <br />
    <h4>SNS :</h4> 
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"></img>
   <img src="https://discord.c99.nl/widget/theme-1/1000315891898138634.png"></img>
 <br /><br />
-<h4>언어 : </h4>
+<h4>언어 / Languages : </h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LynHan1110" />
 <br />
 <br />
@@ -17,10 +19,10 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-%ED%95%9C%EA%B5%AD%EB%A7%90-blue"/>
+<img src="https://img.shields.io/badge/-%ED%95%9C%EA%B5%AD%EB%A7%90/Korean-blue"/>
 <br />
 <br />
-<h4>컴 사양 : </h4>
+<h4>컴 사양 / Computer and Tools : </h4>
 <img src="https://img.shields.io/badge/I Mac 24-d9d9d9?style=for-the-badge&logo=apple&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Galaxy Tab A, Galaxy Tab A7-d9d9d9?style=for-the-badge&logo=Samsung&logoColor=white"></img>
 <h4>Github 통계 : </h4>
@@ -32,9 +34,9 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LynHan1110&repo=BibleProject" />
 </p>
 
-<h4>Followers : </h4>
+<h4>팔로워 / Followers : </h4>
 <img src="https://img.shields.io/badge/Followers : -3-ff69b4"></img>
 <em>실시간으로 업데이트 되지 않습니다. | Does Not Update in Live Time.</em>
 <br />
 <br />
-<h3 align="left">Support:</h3> <p><a href="https://lit.ly/hanlyn1110"> <img align="left" src="https://cdn.litt.ly/images/KdB0KfhRMXK1ic7QP8JVEIDu0IVEZMlz?s=360x360&f=webp" height="50" width="50" alt="hanlyn1110" /></a></p><br><br>
+<h4 align="left">후원 / Support : </h4> <p><a href="https://lit.ly/hanlyn1110"> <img align="left" src="https://cdn.litt.ly/images/KdB0KfhRMXK1ic7QP8JVEIDu0IVEZMlz?s=360x360&f=webp" height="50" width="50" alt="hanlyn1110" /></a></p><br><br>
