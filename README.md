@@ -45,4 +45,3 @@
 <em>실시간으로 업데이트 되지 않습니다. | Does Not Update in Live Time.</em>
 <br />
 <br />
-<h4 align="left">후원 / Support : </h4> <p><a href="https://lit.ly/hanlyn1110"> <img align="left" src="https://cdn.litt.ly/images/KdB0KfhRMXK1ic7QP8JVEIDu0IVEZMlz?s=360x360&f=webp" height="50" width="50" alt="hanlyn1110" /></a></p>Litt.ly<br><br>
