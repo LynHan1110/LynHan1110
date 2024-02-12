@@ -5,8 +5,10 @@
 <h3>  My name is HanLyn (한 린).</h3>
   <br />
    <h4>SNS :</h4> 
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&lo
+    goColor=white"></img>
   <img src="https://discord.c99.nl/widget/theme-1/1000315891898138634.png"></img>
+  (이제는 이 디스코드 계정 안씁니다, 부계정씀)
 <br /><br />
 <h4>언어 / Languages : </h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LynHan1110" />
