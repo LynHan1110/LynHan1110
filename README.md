@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/I Mac 24-d9d9d9?style=for-the-badge&logo=apple&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Galaxy Tab A, Galaxy Tab A7-d9d9d9?style=for-the-badge&logo=Samsung&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Intel(R) Core(TM) i7 CPU  N2211241350 x64 Laptop-d9d9d9?style=for-the-badge&logo=Samsung&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Galaxy S23+?style=for-the-badge&logo=Samsung&logoColor=white"></img>
 <h4>Github 통계 / Github Stats : </h4>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LynHan1110&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%"/>
